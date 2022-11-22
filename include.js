@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Eye Sore',
+    pageLink: './Art/RaremoonCreations/eyesore/index.html',
+    imageLink: './Art/RaremoonCreations/eyesore/eyesore.gif',
+    author: 'RaremoonCreations',
+    githubLink: 'https://github.com/RaremoonCreations'
+  },
 ];
 
 // +--------------------------------------------------------------------------------+
